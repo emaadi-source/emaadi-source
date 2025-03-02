@@ -13,7 +13,7 @@ i 👋, I'm Immad</h1>
 
 - 📫 How to reach me **mimmad942003@gmail.com**
 
-- ⚡ Fun fact **Code test n code again**
+- ⚡ Fun fact **" Code test n code again "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
