@@ -9,7 +9,7 @@ i 👋, I'm Immad</h1>
 
 - 🌱 I’m currently learning **Frameworks and C++ based development**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/muhammad-imad-immad](www.linkedin.com/in/muhammad-imad-immad)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/muhammad-imad-immad](https://www.linkedin.com/in/muhammad-imad-immad/)
 
 - 📫 How to reach me **mimmad942003@gmail.com**
 
