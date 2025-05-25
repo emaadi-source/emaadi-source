@@ -45,8 +45,9 @@ i 👋, I'm Immad</h1>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emaadi-source&show_icons=true&locale=en&layout=compact" alt="emaadi-source" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emaadi-source&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emaadi-source" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emaadi-source&show_icons=true&locale=en" alt="emaadi-source" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emaadi-source&show_icons=true&locale=en&theme=tokyonight" alt="emaadi-source" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emaadi-source&" alt="emaadi-source" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emaadi-source&theme=tokyonight" alt="emaadi-source" /></p>
+
